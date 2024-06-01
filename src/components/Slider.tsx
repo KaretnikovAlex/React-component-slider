@@ -5,7 +5,8 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 // import required modules
 import { Navigation } from 'swiper/modules';
-
+import { slides } from '../data/slides';
+console.log(slides)
 
 export function Slider() {
   return (

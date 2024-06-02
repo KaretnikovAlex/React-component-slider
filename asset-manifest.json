@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-component-slider/static/css/main.2c60f929.css",
-    "main.js": "/React-component-slider/static/js/main.ac0ef27b.js",
+    "main.css": "/React-component-slider/static/css/main.04ceb41a.css",
+    "main.js": "/React-component-slider/static/js/main.0ae6ca13.js",
     "static/js/453.ec6a9ae6.chunk.js": "/React-component-slider/static/js/453.ec6a9ae6.chunk.js",
     "index.html": "/React-component-slider/index.html",
-    "main.2c60f929.css.map": "/React-component-slider/static/css/main.2c60f929.css.map",
-    "main.ac0ef27b.js.map": "/React-component-slider/static/js/main.ac0ef27b.js.map",
+    "main.04ceb41a.css.map": "/React-component-slider/static/css/main.04ceb41a.css.map",
+    "main.0ae6ca13.js.map": "/React-component-slider/static/js/main.0ae6ca13.js.map",
     "453.ec6a9ae6.chunk.js.map": "/React-component-slider/static/js/453.ec6a9ae6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c60f929.css",
-    "static/js/main.ac0ef27b.js"
+    "static/css/main.04ceb41a.css",
+    "static/js/main.0ae6ca13.js"
   ]
 }
